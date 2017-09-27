@@ -1,0 +1,12 @@
+/* <div id="jumbotron" class="jumbotron"> */
+#jumbotron  {
+    background-image: url("../../images/travel_hero.jpg");
+    height: 460px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 0;
+    color: white;
+  }
+  .container  {
+    text-align: center;
+  }

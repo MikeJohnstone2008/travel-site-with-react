@@ -1,0 +1,30 @@
+#flag1  {
+    background-image: url("../../images/aruba_flag.svg");
+  /*margin-left: 20px; */
+  }
+  #flag2  {
+    background-image: url("../../images/chile_flag.svg");
+  }
+  #flag3  {
+    background-image: url("../../images/italy_flag.svg");
+  }
+  #flag4  {
+    background-image: url("../../images/spain_flag.svg");
+  }
+  .flags  {
+    background-color: black;
+    height: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 10px;
+    background-color: #FFFFFF;
+    width: 23.5%;
+    text-align: center;
+    padding-top: 320px;
+    padding: 10px;
+    height: 480px;
+    color: lightblue;
+  }
+  .col-xs-3 p  {
+    color: lightblue;
+  }

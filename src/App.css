@@ -26,3 +26,7 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+#statTable  {
+  height: 200px;
+  margin-bottom: 51px;
+}
