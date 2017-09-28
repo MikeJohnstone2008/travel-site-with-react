@@ -12,9 +12,7 @@ class App extends Component {
     return (
       <div className="App">
         <Nav />
-        <div id="jumbotron" className="jumbotron">
-          <Hero />
-        </div>
+        <Hero />
      
         <div className="container-fluid">
           <div className="row">

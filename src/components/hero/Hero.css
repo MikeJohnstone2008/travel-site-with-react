@@ -1,12 +1,28 @@
-/* <div id="jumbotron" class="jumbotron"> */
-#jumbotron  {
-    background-image: url("../../images/travel_hero.jpg");
+
+/* #jumbotron  {
     height: 460px;
     background-size: cover;
     background-repeat: no-repeat;
     margin-bottom: 0;
     color: white;
-  }
+  } */
   .container  {
     text-align: center;
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  #banner {
+       position: absolute;
+       z-index: 1;
+       color: white;
+ 
+  }
+  .carousel-inner  {
+      height: 460px;
+      background-color: black;
+      /* width: 1700px;
+      background-size: cover;
+      background-repeat: no-repeat; */
   }
